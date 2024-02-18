@@ -6,7 +6,7 @@
 ### You can reach out to me at: 
 <ul> 
 <li><a href="https://www.linkedin.com/in/suryanshdubey0902">Linkedin</a> </li>
-<li><a href="https://www.instagram.com/_suryansh0902">Instagram: _suryansh0902</a></li>
+<li><a href="https://www.instagram.com/_suryansh0902">Instagram:</a> _suryansh0902</li>
 </ul>
 
 ### Thanks!
