@@ -1,6 +1,5 @@
 ## Hi there 👋
 ## I'm Suryansh Dubey😊, an aspiring venture builder👷 in the tech space. I love working in a collaborative environment and would love to share inights and learn from the community.
-## Open source ♥️ is the one which fascinates me the most, moving forward I see myself contributing to various projects and at some point initiating my own venture project.
 ## Hit me up for any crazy ideas or projects!
 
 ### You can reach out to me at: 
